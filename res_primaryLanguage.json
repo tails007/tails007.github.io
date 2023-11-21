@@ -26,12 +26,12 @@
           "name": "Unity"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-windows8-original",
+          "name": "PC (Windows)"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "fas fa-graduation-cap",
+          "name": "Deep Leaning"
         }
       ]
     },
@@ -50,8 +50,12 @@
           "name": "UnrealEngine"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "class": "fas fa-vr-cardboard",
+          "name": "VR"
+        },
+        {
+          "class": "fas fa-graduation-cap",
+          "name": "Deep Leaning"
         }
       ]
     },
@@ -66,16 +70,16 @@
       "url": "",
       "technologies": [
         {
-          "class": "devicon-unrealengine-original",
-          "name": "UnrealEngine"
+          "class": "devicon-unity-original",
+          "name": "Unity"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-windows8-original",
+          "name": "PC (Windows)"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "fas fa-graduation-cap",
+          "name": "Deep Leaning"
         }
       ]
     },
@@ -90,16 +94,16 @@
       "url": "",
       "technologies": [
         {
-          "class": "devicon-unrealengine-original",
-          "name": "UnrealEngine"
+          "class": "devicon-unity-original",
+          "name": "Unity"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-windows8-original",
+          "name": "PC (Windows)"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "fas fa-graduation-cap",
+          "name": "Deep Leaning"
         }
       ]
     },
@@ -117,12 +121,8 @@
           "name": "Unity"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-windows8-original",
+          "name": "PC (Windows)"
         }
       ]
     },
@@ -146,8 +146,12 @@
           "name": "UnrealEngine"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "fas fa-vr-cardboard",
+          "name": "VR"
+        },
+        {
+          "class": "fas fa-mobile",
+          "name": "AR"
         }
       ]
     },
@@ -171,8 +175,8 @@
           "name": "TypeScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "fas fa-mobile",
+          "name": "AR"
         }
       ]
     },
@@ -192,12 +196,8 @@
           "name": "UnrealEngine"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "fas fa-vr-cardboard",
+          "name": "VR"
         }
       ]
     },
@@ -217,12 +217,8 @@
           "name": "Unity"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "fas fa-tv",
+          "name": "OTT"
         }
       ]
     },
@@ -244,8 +240,8 @@
           "name": "UnrealEngine"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "fas fa-vr-cardboard",
+          "name": "VR"
         }
       ]
     },
@@ -288,6 +284,10 @@
         {
           "class": "devicon-unity-original",
           "name": "Unity"
+        },
+        {
+          "class": "devicon-windows8-original",
+          "name": "PC (Windows)"
         },
         {
           "class": "devicon-android-plain",
