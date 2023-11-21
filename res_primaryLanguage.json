@@ -1,408 +1,408 @@
 {
-    "basic_info": {
-      "name": "이재혁",
-      "description_header": "안녕하세요",
-      "description": "👋게임 기획자 이재혁입니다. 주로 시스템 디자인 부분을 담당하였고 UI/UX설계, 레벨 디자인, 적 AI 디자인 등 다양한 게임 기획을 하고 있습니다. 게임에 새롭고 신선한 재미를 어떻게 담아낼지가 저의 가장 큰 관심사입니다. XR이나 AI같은 아직 성장중인 플랫폼이나 기술에 관심이 많습니다. 감사합니다.🙇‍♂️",
-      "section_name": {
-        "about": "자기 소개",
-        "projects": "프로젝트",
-        "skills": "보유 기술",
-        "experience": "업무 경험"
-      }
+  "basic_info": {
+    "name": "이재혁",
+    "description_header": "안녕하세요",
+    "description": "👋게임 기획자 이재혁입니다. 주로 시스템 디자인 부분을 담당하였고 UI/UX설계, 레벨 디자인, 적 AI 디자인 등 다양한 게임 기획을 하고 있습니다. 게임에 새롭고 신선한 재미를 어떻게 담아낼지가 저의 가장 큰 관심사입니다. XR이나 AI같은 아직 성장중인 플랫폼이나 기술에 관심이 많습니다. 감사합니다.🙇‍♂️",
+    "section_name": {
+      "about": "자기 소개",
+      "projects": "프로젝트",
+      "skills": "보유 기술",
+      "experience": "업무 경험"
+    }
+  },
+  "projects": [
+    {
+      "title": "Project LLTK",
+      "startDate": "2023",
+      "description": "턴제 타워디펜스 덱빌딩 로그라이크 게임 프로젝트를 진행했습니다. GPT를 사용하여 현재 게임 상황에 따라서 이벤트가 생성되는 시스템이 핵심 요소였습니다. 플레이어가 단순히 건물을 지키는 것이 아니라 마을에 사는 주민들과 그들의 소소한 일상을 지켜내는 영웅이 되는 경험을 할 수 있도록 기획 의도를 담아냈습니다.",
+      "images": [
+        "https://user-images.githubusercontent.com/19778794/276113626-dfc5f438-78a7-4b35-8059-a30f2363bc6a.png",
+        "https://user-images.githubusercontent.com/19778794/276123511-c9ea9e7d-1523-4ce5-9172-812c33979bff.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-unity-original",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Project LLTK",
-        "startDate": "2023",
-        "description": "턴제 타워디펜스 덱빌딩 로그라이크 게임 프로젝트를 진행했습니다. GPT를 사용하여 현재 게임 상황에 따라서 이벤트가 생성되는 시스템이 핵심 요소였습니다.",
-        "images": [
-          "https://user-images.githubusercontent.com/19778794/276113626-dfc5f438-78a7-4b35-8059-a30f2363bc6a.png",
-          "https://user-images.githubusercontent.com/19778794/276123511-c9ea9e7d-1523-4ce5-9172-812c33979bff.png"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-unity-original",
-            "name": "Unity"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Project Wolf VR",
-        "startDate": "2022",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "https://user-images.githubusercontent.com/19778794/276116515-7c3213f7-82d7-48e1-88eb-fafd123ae03d.png",
-          "https://user-images.githubusercontent.com/19778794/276124913-91ea80a9-678e-4b53-8149-8cc18a9d20e9.png"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-unrealengine-original",
-            "name": "UnrealEngine"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Project Spy vs Spy",
-        "startDate": "2022",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "https://user-images.githubusercontent.com/19778794/276122685-e2b45dc8-a997-471b-a669-48ed21b2c070.png",
-          "https://user-images.githubusercontent.com/19778794/276125965-97231da0-f113-4ad0-a1d2-ffa7c49a3bf9.png"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-unrealengine-original",
-            "name": "UnrealEngine"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Project Beat Divers",
-        "startDate": "2021",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "https://user-images.githubusercontent.com/19778794/276122268-08d0c7db-e1bc-46b1-944d-668d13d2196c.png",
-          "https://user-images.githubusercontent.com/19778794/276127457-48964a08-db82-4a5c-b395-459a6cb47fc9.png"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-unrealengine-original",
-            "name": "UnrealEngine"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Weapon Master Gandpa",
-        "startDate": "2021",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "https://user-images.githubusercontent.com/19778794/275762899-c6763519-85fb-44f0-9005-08b5f534baf9.png"
-        ],
-        "url": "https://indie.onstove.com/ko/games/552",
-        "technologies": [
-          {
-            "class": "devicon-unity-original",
-            "name": "Unity"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "고양관광정보센터 VR AR",
-        "startDate": "2020",
-        "description": "고양시관광정보센터에서 진행한 VR AR 프로젝트에 참여했습니다. ",
-        "images": [
-          "https://user-images.githubusercontent.com/19778794/275762369-0d5cc49a-191c-44e3-9640-0d2e41728da9.png",
-          "https://user-images.githubusercontent.com/19778794/276110696-147d3607-1157-46c2-9612-7371855d2cb8.png",
-          "https://user-images.githubusercontent.com/19778794/276110714-3e5bce62-0783-4c8d-a27d-0499f49c0033.png"
-        ],
-        "url": "https://play.google.com/store/apps/details?id=com.Ehancreative.GoyangAR",
-        "technologies": [
-          {
-            "class": "devicon-unity-original",
-            "name": "Unity"
-          },
-          {
-            "class": "devicon-unrealengine-original",
-            "name": "UnrealEngine"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "센트럴파크 AR",
-        "startDate": "2020",
-        "description": "위치 기반과 AR 기능을 활용하여 인천 송도 센트럴파크에서 플레이할 수 있는 게임을 개발했습니다. 사용자가 동선을 따라서 이동하도록 유도하고, 각각의 포인트마다 미니 게임을 할 수 있도록 구성하였습니다.",
-        "images": [
-          "https://user-images.githubusercontent.com/19778794/275762288-4b6f0ac9-0573-4f0a-90f0-9009fa0cf5df.png",
-          "https://user-images.githubusercontent.com/19778794/276110624-03551801-1169-49ff-afbe-fb1995b6fb08.png",
-          "https://user-images.githubusercontent.com/19778794/276110639-4b5371d5-7ab2-4ca7-bec4-34aa5552ed7b.png"
-        ],
-        "url": "https://play.google.com/store/apps/details?id=com.ehancreative.centralpark",
-        "technologies": [
-          {
-            "class": "devicon-unity-original",
-            "name": "Unity"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "와시냐 VR",
-        "startDate": "2019",
-        "description": "제주대학교와 산학 협력으로 진행한 VR 프로젝트입니다. 제주도의 전통 문화를 실감나게 체험시키기 위해 각종 자료와 현지 출신 개발자와 함께 흥미로운 주제로 콘텐츠를 선정했습니다. VR 모션 컨트롤러를 최대한 활용하는 방안에 대해서 많은 고민을 했었습니다.",
-        "images": [
-          "https://user-images.githubusercontent.com/19778794/275762205-5c033b33-254c-44da-ad24-5b5dfc362e46.png",
-          "https://user-images.githubusercontent.com/19778794/276110501-c2600d25-ef0b-4491-89e1-832f314b1aac.png",
-          "https://user-images.githubusercontent.com/19778794/276110530-6dfd8880-bc10-463c-acb4-035ff1d639b7.png"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-unrealengine-original",
-            "name": "UnrealEngine"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "비타롱과 교통안전",
-        "startDate": "2019",
-        "description": "OTT에서 리모콘으로 플레이하는 교육용 게임도 개발했습니다. 교육용 콘텐츠이기에 좀 더 엄밀한 자료조사가 필요했고 아이들도 쉽게 플레이할 수 있는 UI/UX를 설계하는 데 중심을 맞췄습니다.",
-        "images": [
-          "https://user-images.githubusercontent.com/19778794/275762133-b4bebc25-bcb3-438d-bb27-ec69c1694069.png",
-          "https://user-images.githubusercontent.com/19778794/276110432-1ec4fe45-b588-4297-b434-d4eed61a6e14.png",
-          "https://user-images.githubusercontent.com/19778794/276110442-df62ddd2-2c51-419c-8979-bfb9aca58573.png"
-        ],
-        "url": "https://www.dlive.kr/front/dliveplus/FreeAction.do?method=list&sFirstClCode=03",
-        "technologies": [
-          {
-            "class": "devicon-unity-original",
-            "name": "Unity"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "VR 게임들",
-        "startDate": "2019-2020",
-        "description": "다양한 VR 콘텐츠의 프로토타입 개발에도 참여했습니다. 쓰레드밀 같은 주변기기를 활용한 게임과 로컬 멀티플레이가 가능한 VR 콘텐츠 등 다양한 형태의 게임을 만들었습니다.",
-        "images": [
-          "https://user-images.githubusercontent.com/19778794/275777362-b3a1c964-c508-46dc-8f47-19d6c32663bc.png"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-unity-original",
-            "name": "Unity"
-          },
-          {
-            "class": "devicon-unrealengine-original",
-            "name": "UnrealEngine"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "1인 개발 게임들",
-        "startDate": "2021",
-        "description": "회사 리소스를 활용하여 1인 개발로 바운스볼과 3매치 퍼즐 게임을 만들었습니다. 기획부터 사운드, 애니메이션, 프로그래밍까지 혼자서 진행할 수 있는 기회였습니다.",
-        "images": [
-          "https://user-images.githubusercontent.com/19778794/275777411-266f0830-ad13-41d9-8031-7e3597630e3c.png"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-unity-original",
-            "name": "Unity"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "뉴 건바운드",
-        "startDate": "2019",
-        "description": "PC와 모바일로 크로스 플레이가 가능한 슈팅 게임 입니다. 게임 테스터로 시작했지만 밸런스 디자인, 콘텐츠 제안 등 추가적인 업무도 맡았습니다.",
-        "images": [
-          "https://user-images.githubusercontent.com/19778794/275761484-c4035a92-3d54-45b8-aed5-2729e42c4265.png",
-          "https://user-images.githubusercontent.com/19778794/276050269-4849d0fa-8ca0-45f3-a28a-79fc67b636e0.png",
-          "https://user-images.githubusercontent.com/19778794/276050281-98aa4cd6-5678-44d2-b0c2-964ac6381fff.png",
-          "https://user-images.githubusercontent.com/19778794/276050709-5b7d0054-3001-469c-a362-8575fd8c12d4.png",
-          "https://user-images.githubusercontent.com/19778794/276050761-58ec3052-1e24-44ca-b488-9427d9addf63.png",
-          "https://user-images.githubusercontent.com/19778794/276051035-f7742af9-13d5-4c15-a59b-0282e8a3f743.png",
-          "https://user-images.githubusercontent.com/19778794/276051048-be576382-9cb8-4dd7-a45d-00cbb3d7aec7.png",
-          "https://user-images.githubusercontent.com/19778794/276053663-ed27478a-830f-4386-bb86-05e62193953f.png",
-          "https://user-images.githubusercontent.com/19778794/276053683-9765a0a8-5aa3-4bae-b77e-8bd6d55c1ad4.png"
-        ],
-        "url": "https://play.google.com/store/apps/details?id=com.extreme.ngb&hl=ko&gl=KR",
-        "technologies": [
-          {
-            "class": "devicon-unity-original",
-            "name": "Unity"
-          },
-          {
-            "class": "devicon-android-plain",
-            "name": "Android"
-          }
-        ]
-      },
-      {
-        "title": "TCG",
-        "startDate": "2019",
-        "description": "수집형 카드 배틀 게임 개발에 참여했습니다. UI 설계, 전투 디자인, 밸런스 디자인을 맡았습니다. 다양한 캐릭터 카드가 등장하는 만큼 각각의 스탯을 분배하는 규칙을 만드는 것이 가장 큰 업무였습니다.",
-        "images": [
-          "https://user-images.githubusercontent.com/19778794/275761993-cf65d727-cef9-4e68-9b37-a60dcac30924.png",
-          "https://user-images.githubusercontent.com/19778794/276110213-b1924795-b989-4c20-801e-c03355956c84.png",
-          "https://user-images.githubusercontent.com/19778794/276110240-af546336-285d-4c21-a336-7e5a19399d74.png",
-          "https://user-images.githubusercontent.com/19778794/276110286-22a28d0c-95ea-44d2-b914-9dd0f43fe237.png",
-          "https://user-images.githubusercontent.com/19778794/276110303-d68d56f4-fc38-4613-a5c9-fe0d57eb0ac5.png",
-          "https://user-images.githubusercontent.com/19778794/276110315-e09487f2-a81f-4a8e-b56d-5f54d0e78408.png",
-          "https://user-images.githubusercontent.com/19778794/276110342-aad3ee18-af69-4f7d-8eba-9bb8a62bb1e9.png"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-unity-original",
-            "name": "Unity"
-          },
-          {
-            "class": "devicon-android-plain",
-            "name": "Android"
-          }
-        ]
-      },
-      {
-        "title": "개인 프로젝트",
-        "startDate": "201X",
-        "description": "학부 시절에 윷놀이 룰을 베이스로 상대방과 조우할 때 턴제 전투를 전투 윷놀이라는 게임을 팀 프로젝트로 만들었습니다. 전자책에 사운드, 비주얼 이펙트를 입혀 인터렉티브 텍스트 프로젝트도 진행했었습니다. VR, AR을 활용한 미니 게임도 몇가지 만들었습니다.",
-        "images": [
-          "https://user-images.githubusercontent.com/19778794/275762997-94ec3ffe-600a-4e70-a03c-1f28bf1308ca.png",
-          "https://user-images.githubusercontent.com/19778794/275763018-1520ed4c-2f18-470b-b22f-078e5295ae6c.png",
-          "https://user-images.githubusercontent.com/19778794/275763090-1690533d-34a1-4855-8528-89fdcf4038bf.png"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-unity-original",
-            "name": "Unity"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "크래프톤",
-        "title": "게임 디자이너",
-        "years": "2021.11 - 현재",
-        "mainTech": [
-          "Deep Learning"
-        ],
-        "technologies": [
-          "Unity",
-          "Unreal",
-          "Game System",
-          "Level Design",
-          "Balance Design",
-          "UI/UX"
-        ]
-      },
-      {
-        "company": "야누스랩스",
-        "title": "게임 디자이너",
-        "years": "2021.8 - 2021.10",
-        "mainTech": [
-          "PC Platformer"
-        ],
-        "technologies": [
-          "Unity",
-          "Game System",
-          "Level Design",
-          "AI Design",
-          "UI/UX"
-        ]
-      },
-      {
-        "company": "그랙션",
-        "title": "게임 디자이너",
-        "years": "2021.8 - 2021.10",
-        "mainTech": [
-          "VR/AR"
-        ],
-        "technologies": [
-          "Unity",
-          "Unreal",
-          "Game System",
-          "Game Contents",
-          "UI/UX"
-        ]
-      },
-      {
-        "company": "로켓펀치게임즈",
-        "title": "게임 디자이너",
-        "years": "2021.8 - 2021.10",
-        "mainTech": [
-          "Mobile Game"
-        ],
-        "technologies": [
-          "Unity",
-          "Game Test",
-          "Battle System",
-          "Balance Design",
-          "UI/UX"          
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Project Wolf VR",
+      "startDate": "2022",
+      "description": "음성 명령으로 적을 처치하거나 퍼즐을 풀어나가는 늑대 VR은 파트너 캐릭터와의 교감을 주제로 기획되었습니다. 포스트 아포칼립스라는 외로운 세계관에서 유일하게 의지할 수 있는 하나의 생명체에게 목소리와 접촉을 통해서 교감하고 위기를 극복하는 경험을 담아내고 싶었습니다.",
+      "images": [
+        "https://user-images.githubusercontent.com/19778794/276116515-7c3213f7-82d7-48e1-88eb-fafd123ae03d.png",
+        "https://user-images.githubusercontent.com/19778794/276124913-91ea80a9-678e-4b53-8149-8cc18a9d20e9.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-unrealengine-original",
+          "name": "UnrealEngine"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Project Spy vs Spy",
+      "startDate": "2022",
+      "description": "PvP 잠입 게임인 스파이 vs 스파이는 AI NPC들 사이에서 상대방을 암살하는 게임입니다. NPC와의 채팅을 통해서 정보를 얻어내고 다양한 액션과 변장 등의 기믹을 활용하여 플레이 하도록 설계했습니다.",
+      "images": [
+        "https://user-images.githubusercontent.com/19778794/276122685-e2b45dc8-a997-471b-a669-48ed21b2c070.png",
+        "https://user-images.githubusercontent.com/19778794/276125965-97231da0-f113-4ad0-a1d2-ffa7c49a3bf9.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-unrealengine-original",
+          "name": "UnrealEngine"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Project Beat Divers",
+      "startDate": "2021",
+      "description": "비트 다이버즈는 협동 기반의 탑 뷰 슈터 게임입니다. 전투에 참여한 4명의 플레이어가 각각의 악기로 공격하는 방식으로, 딥러닝을 활용하여 연주되는 소리의 조합을 다양하게 생성되게 하는 것이 핵심 목표였습니다.",
+      "images": [
+        "https://user-images.githubusercontent.com/19778794/276122268-08d0c7db-e1bc-46b1-944d-668d13d2196c.png",
+        "https://user-images.githubusercontent.com/19778794/276127457-48964a08-db82-4a5c-b395-459a6cb47fc9.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-unrealengine-original",
+          "name": "UnrealEngine"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Weapon Master Gandpa",
+      "startDate": "2021",
+      "description": "플랫포머 액션을 기반으로 한 로그라이트 게임 개발에도 참여하였습니다. 타일 배치로 레벨 디자인을 하였습니다. 랜덤하게 맵이 생성될 때 문제가 발생하지 않도록 주의를 기울이면서 작업을 진행했습니다. 적 AI와 전투 디자인도 맡았습니다. 각 적 캐릭터별로 특성을 살리고 전투를 긴장감 있게 조성하는 것이 관건이었습니다.",
+      "images": [
+        "https://user-images.githubusercontent.com/19778794/275762899-c6763519-85fb-44f0-9005-08b5f534baf9.png"
+      ],
+      "url": "https://indie.onstove.com/ko/games/552",
+      "technologies": [
+        {
+          "class": "devicon-unity-original",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "고양관광정보센터 VR AR",
+      "startDate": "2020",
+      "description": "고양시관광정보센터에서 진행한 VR AR 프로젝트에 참여했습니다. 문화재나 랜드마크가 될 구조물을 모델링하기 위해서 현장 답사를 자주 갔습니다. 적당한 뷰포인트를 찾고 거기서 플레이할 수 있는 간단한 미니게임도 개발했습니다. 센터내에 VR HMD를 설치하여 행주대첩 테마의 디펜스 게임도 개발했습니다.",
+      "images": [
+        "https://user-images.githubusercontent.com/19778794/275762369-0d5cc49a-191c-44e3-9640-0d2e41728da9.png",
+        "https://user-images.githubusercontent.com/19778794/276110696-147d3607-1157-46c2-9612-7371855d2cb8.png",
+        "https://user-images.githubusercontent.com/19778794/276110714-3e5bce62-0783-4c8d-a27d-0499f49c0033.png"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.Ehancreative.GoyangAR",
+      "technologies": [
+        {
+          "class": "devicon-unity-original",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-unrealengine-original",
+          "name": "UnrealEngine"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "센트럴파크 AR",
+      "startDate": "2020",
+      "description": "위치 기반과 AR 기능을 활용하여 인천 송도 센트럴파크에서 플레이할 수 있는 게임을 개발했습니다. 사용자가 동선을 따라서 이동하도록 유도하고, 각각의 포인트마다 미니 게임을 할 수 있도록 구성하였습니다.",
+      "images": [
+        "https://user-images.githubusercontent.com/19778794/275762288-4b6f0ac9-0573-4f0a-90f0-9009fa0cf5df.png",
+        "https://user-images.githubusercontent.com/19778794/276110624-03551801-1169-49ff-afbe-fb1995b6fb08.png",
+        "https://user-images.githubusercontent.com/19778794/276110639-4b5371d5-7ab2-4ca7-bec4-34aa5552ed7b.png"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.ehancreative.centralpark",
+      "technologies": [
+        {
+          "class": "devicon-unity-original",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "와시냐 VR",
+      "startDate": "2019",
+      "description": "제주대학교와 산학 협력으로 진행한 VR 프로젝트입니다. 제주도의 전통 문화를 실감나게 체험시키기 위해 각종 자료와 현지 출신 개발자와 함께 흥미로운 주제로 콘텐츠를 선정했습니다. VR 모션 컨트롤러를 최대한 활용하는 방안에 대해서 많은 고민을 했었습니다.",
+      "images": [
+        "https://user-images.githubusercontent.com/19778794/275762205-5c033b33-254c-44da-ad24-5b5dfc362e46.png",
+        "https://user-images.githubusercontent.com/19778794/276110501-c2600d25-ef0b-4491-89e1-832f314b1aac.png",
+        "https://user-images.githubusercontent.com/19778794/276110530-6dfd8880-bc10-463c-acb4-035ff1d639b7.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-unrealengine-original",
+          "name": "UnrealEngine"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "비타롱과 교통안전",
+      "startDate": "2019",
+      "description": "OTT에서 리모콘으로 플레이하는 교육용 게임도 개발했습니다. 교육용 콘텐츠이기에 좀 더 엄밀한 자료조사가 필요했고 아이들도 쉽게 플레이할 수 있는 UI/UX를 설계하는 데 중심을 맞췄습니다.",
+      "images": [
+        "https://user-images.githubusercontent.com/19778794/275762133-b4bebc25-bcb3-438d-bb27-ec69c1694069.png",
+        "https://user-images.githubusercontent.com/19778794/276110432-1ec4fe45-b588-4297-b434-d4eed61a6e14.png",
+        "https://user-images.githubusercontent.com/19778794/276110442-df62ddd2-2c51-419c-8979-bfb9aca58573.png"
+      ],
+      "url": "https://www.dlive.kr/front/dliveplus/FreeAction.do?method=list&sFirstClCode=03",
+      "technologies": [
+        {
+          "class": "devicon-unity-original",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "VR 게임들",
+      "startDate": "2019-2020",
+      "description": "다양한 VR 콘텐츠의 프로토타입 개발에도 참여했습니다. 쓰레드밀 같은 주변기기를 활용한 게임과 로컬 멀티플레이가 가능한 VR 콘텐츠 등 다양한 형태의 게임을 만들었습니다.",
+      "images": [
+        "https://user-images.githubusercontent.com/19778794/275777362-b3a1c964-c508-46dc-8f47-19d6c32663bc.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-unity-original",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-unrealengine-original",
+          "name": "UnrealEngine"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "1인 개발 게임들",
+      "startDate": "2021",
+      "description": "회사 리소스를 활용하여 1인 개발로 바운스볼과 3매치 퍼즐 게임을 만들었습니다. 기획부터 사운드, 애니메이션, 프로그래밍까지 혼자서 진행할 수 있는 기회였습니다.",
+      "images": [
+        "https://user-images.githubusercontent.com/19778794/275777411-266f0830-ad13-41d9-8031-7e3597630e3c.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-unity-original",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "뉴 건바운드",
+      "startDate": "2019",
+      "description": "PC와 모바일로 크로스 플레이가 가능한 슈팅 게임 입니다. 게임 테스터로 시작했지만 밸런스 디자인, 콘텐츠 제안 등 추가적인 업무도 맡았습니다.",
+      "images": [
+        "https://user-images.githubusercontent.com/19778794/275761484-c4035a92-3d54-45b8-aed5-2729e42c4265.png",
+        "https://user-images.githubusercontent.com/19778794/276050269-4849d0fa-8ca0-45f3-a28a-79fc67b636e0.png",
+        "https://user-images.githubusercontent.com/19778794/276050281-98aa4cd6-5678-44d2-b0c2-964ac6381fff.png",
+        "https://user-images.githubusercontent.com/19778794/276050709-5b7d0054-3001-469c-a362-8575fd8c12d4.png",
+        "https://user-images.githubusercontent.com/19778794/276050761-58ec3052-1e24-44ca-b488-9427d9addf63.png",
+        "https://user-images.githubusercontent.com/19778794/276051035-f7742af9-13d5-4c15-a59b-0282e8a3f743.png",
+        "https://user-images.githubusercontent.com/19778794/276051048-be576382-9cb8-4dd7-a45d-00cbb3d7aec7.png",
+        "https://user-images.githubusercontent.com/19778794/276053663-ed27478a-830f-4386-bb86-05e62193953f.png",
+        "https://user-images.githubusercontent.com/19778794/276053683-9765a0a8-5aa3-4bae-b77e-8bd6d55c1ad4.png"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.extreme.ngb&hl=ko&gl=KR",
+      "technologies": [
+        {
+          "class": "devicon-unity-original",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-android-plain",
+          "name": "Android"
+        }
+      ]
+    },
+    {
+      "title": "TCG",
+      "startDate": "2019",
+      "description": "수집형 카드 배틀 게임 개발에 참여했습니다. UI 설계, 전투 디자인, 밸런스 디자인을 맡았습니다. 다양한 캐릭터 카드가 등장하는 만큼 각각의 스탯을 분배하는 규칙을 만드는 것이 가장 큰 업무였습니다.",
+      "images": [
+        "https://user-images.githubusercontent.com/19778794/275761993-cf65d727-cef9-4e68-9b37-a60dcac30924.png",
+        "https://user-images.githubusercontent.com/19778794/276110213-b1924795-b989-4c20-801e-c03355956c84.png",
+        "https://user-images.githubusercontent.com/19778794/276110240-af546336-285d-4c21-a336-7e5a19399d74.png",
+        "https://user-images.githubusercontent.com/19778794/276110286-22a28d0c-95ea-44d2-b914-9dd0f43fe237.png",
+        "https://user-images.githubusercontent.com/19778794/276110303-d68d56f4-fc38-4613-a5c9-fe0d57eb0ac5.png",
+        "https://user-images.githubusercontent.com/19778794/276110315-e09487f2-a81f-4a8e-b56d-5f54d0e78408.png",
+        "https://user-images.githubusercontent.com/19778794/276110342-aad3ee18-af69-4f7d-8eba-9bb8a62bb1e9.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-unity-original",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-android-plain",
+          "name": "Android"
+        }
+      ]
+    },
+    {
+      "title": "개인 프로젝트",
+      "startDate": "201X",
+      "description": "학부 시절에 윷놀이 룰을 베이스로 상대방과 조우할 때 턴제 전투를 전투 윷놀이라는 게임을 팀 프로젝트로 만들었습니다. 전자책에 사운드, 비주얼 이펙트를 입혀 인터렉티브 텍스트 프로젝트도 진행했었습니다. VR, AR을 활용한 미니 게임도 몇가지 만들었습니다.",
+      "images": [
+        "https://user-images.githubusercontent.com/19778794/275762997-94ec3ffe-600a-4e70-a03c-1f28bf1308ca.png",
+        "https://user-images.githubusercontent.com/19778794/275763018-1520ed4c-2f18-470b-b22f-078e5295ae6c.png",
+        "https://user-images.githubusercontent.com/19778794/275763090-1690533d-34a1-4855-8528-89fdcf4038bf.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-unity-original",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "크래프톤",
+      "title": "게임 디자이너",
+      "years": "2021.11 - 현재",
+      "mainTech": [
+        "Deep Learning"
+      ],
+      "technologies": [
+        "Unity",
+        "Unreal",
+        "Game System",
+        "Level Design",
+        "Balance Design",
+        "UI/UX"
+      ]
+    },
+    {
+      "company": "야누스랩스",
+      "title": "게임 디자이너",
+      "years": "2021.8 - 2021.10",
+      "mainTech": [
+        "PC Platformer"
+      ],
+      "technologies": [
+        "Unity",
+        "Game System",
+        "Level Design",
+        "AI Design",
+        "UI/UX"
+      ]
+    },
+    {
+      "company": "그랙션",
+      "title": "게임 디자이너",
+      "years": "2021.8 - 2021.10",
+      "mainTech": [
+        "VR/AR"
+      ],
+      "technologies": [
+        "Unity",
+        "Unreal",
+        "Game System",
+        "Game Contents",
+        "UI/UX"
+      ]
+    },
+    {
+      "company": "로켓펀치게임즈",
+      "title": "게임 디자이너",
+      "years": "2021.8 - 2021.10",
+      "mainTech": [
+        "Mobile Game"
+      ],
+      "technologies": [
+        "Unity",
+        "Game Test",
+        "Battle System",
+        "Balance Design",
+        "UI/UX"          
+      ]
+    }
+  ]
+}
