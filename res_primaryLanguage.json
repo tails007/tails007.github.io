@@ -171,10 +171,6 @@
           "name": "Unity"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
           "class": "fas fa-mobile",
           "name": "AR"
         }
